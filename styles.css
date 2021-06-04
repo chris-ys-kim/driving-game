@@ -4,6 +4,8 @@ body {
 
 img {
   width: 15rem;
+  transition-duration: 0.2s;
+  position: relative;
 }
 
 .left {
